@@ -98,12 +98,11 @@ InstagramClone
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Preview
 
-<img alt="Home feed" src="REPLACE_WITH_HOME_GIF" />
-<img alt="Profile" src="REPLACE_WITH_PROFILE_GIF" />
+<img width="426" height="925" alt="Animation1" src="https://github.com/user-attachments/assets/f4eed800-c16f-4ea6-9120-8b725332226e" />
+<img width="425" height="926" alt="Animation2" src="https://github.com/user-attachments/assets/38dcc506-e0ee-4fde-8223-2f459470853b" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Key" width="25" height="25" /> App Icons
 
-![Animation1.gif](../Animation1.gif)
 Ready-to-use app icons are available in the [`AppIcons/`](./AppIcons) folder — feel free to use them for your own build:
 
 - `AppIcons/android/` — launcher icons for every density, plus adaptive and monochrome variants.
