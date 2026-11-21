@@ -102,6 +102,7 @@ InstagramClone
 <img alt="Profile" src="REPLACE_WITH_PROFILE_GIF" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" alt="Key" width="25" height="25" /> App Icons
+
 ![Animation1.gif](../Animation1.gif)
 Ready-to-use app icons are available in the [`AppIcons/`](./AppIcons) folder — feel free to use them for your own build:
 
@@ -114,6 +115,10 @@ Ready-to-use app icons are available in the [`AppIcons/`](./AppIcons) folder —
 - `src/utils/post.ts` and `src/utils/stories.ts` are typed mock fixtures; swap them for API calls when adding a backend.
 - Search, Reel and Shop are placeholder screens by design, not unfinished routes.
 - The Jest smoke test mocks `react-native-read-more` because its layout timers outlive a render-only test.
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> License
+
+Released under the [MIT License](./LICENSE).
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Contact
 
